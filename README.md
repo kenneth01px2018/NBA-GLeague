@@ -5,8 +5,9 @@ GitHub repo for the project I did analyzing NBA G League data to predict whether
 The link to the Medium article link describing the project: 
 
 Mini-directory:
-1. **Data** is the folder that contains the data used for this project
+1. **Data** is the folder that contains the data used for this project:
   - final_df21.csv is the data set for the 2020-2021 NBA G League regular season
   - final_df22.csv is the data set for the 2021-2022 NBA G League regular season
   - final_df23.csv is the data set for the 2022-2023 NBA G League regular season (as of 2/7/2023)
-2.  
+2.  **GLeague.R** is the R script used for the data analysis
+3.  **Scraping Data.ipynb** is the Python script used to scrape the data
