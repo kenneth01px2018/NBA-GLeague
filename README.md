@@ -2,7 +2,7 @@
 
 GitHub repo for the project I did analyzing NBA G League data to predict whether a player gets called up to the NBA.
 
-The link to the Medium article for the project: 
+The link to the Medium article for the project: https://medium.com/@kennethylhs22/analyzing-nba-g-league-data-to-predict-call-ups-2e9cab2a78b9
 
 Mini-directory:
 1. **Data** is the folder that contains the data used for this project:
