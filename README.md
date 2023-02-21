@@ -10,4 +10,4 @@ Mini-directory:
   - final_df22.csv is the data set for the 2021-2022 NBA G League regular season
   - final_df23.csv is the data set for the 2022-2023 NBA G League regular season (as of 2/7/2023)
 2.  **GLeague.R** is the R script used for the data analysis
-3.  **Scraping Data.ipynb** is the Python script used to scrape the data
+3.  **Scraping Data.ipynb** is the Jupyter Notebook used to scrape the data
